@@ -4038,7 +4038,7 @@
 <e lm="户主"><i>户主</i><par n="爱人__n"/></e>
 <e lm="房"><i>房</i><par n="爱人__n"/></e>
 <e lm="房屋"><i>房屋</i><par n="爱人__n"/></e>
-<e lm="房子"><i>房屋</i><par n="爱人__n"/></e>
+<e lm="房子"><i>房子</i><par n="爱人__n"/></e>
 <e lm="所为"><i>所为</i><par n="爱人__n"/></e>
 <e lm="所以"><i>所以</i><par n="暗暗__adv"/></e>
 <e lm="所在"><i>所在</i><par n="爱__vblex"/></e>
@@ -8871,9 +8871,10 @@
 <e lm="修"><i>修</i><par n="x__n"/></e> <!-- reparación -->
 <e lm="学制"><i>学制</i><par n="x__n"/></e> <!-- sistema escolar -->
 
-
-
-
+<!-- CD: I don't know how they organized this thing, so I'm just going to add my stuff down here -->
+<e lm="小明"><i>小明</i><par n="爱人__np"/></e> <!-- James/Jamus from the story -->
+<e lm="小红"><i>小红</i><par n="爱人__np"/></e> <!-- Mary/Maria from the story (not how people usually translate the name Mary) -->
+<e lm="戴康怡"><i>小明</i><par n="爱人__np"/></e> <!-- might as well add myself -->
 
 </section>
          <section id="final" type="inconditional">
