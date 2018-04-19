@@ -390,6 +390,7 @@
       <e lm="难道"><i>难道</i><par n="可以__vbmod"/></e> <!--incorrecte..poder-->
     <e lm="来 了"><i>来 了</i><par n="爱__vblex"/></e> <!--venir-->
      <e lm="仔细 地"><i>仔细 地</i><par n="暗暗__adv"/></e> <!--atentamente-->
+     <e lm="不停 地"><i>不停 地</i><par n="暗暗__adv"/></e>
         <e lm="鸟儿"><i>鸟儿</i><par n="爱人__n"/></e> <!--ave-->
         <e lm="或"><i>或</i><par n="并且__cnjcoo"/></e>  <!--o-->
 	 <e lm="现在"><i>现在</i><par n="暗暗__adv"/></e> <!--ahora-->
@@ -715,6 +716,7 @@
 		<e lm="字"><i>字</i><par n="爱人__n"/></e>
 		<e lm="组织"><i>组织</i><par n="爱人__n"/></e>
 		<e lm="左"><i>左</i><par n="爱人__n"/></e>
+    <e lm="左看右看"><i>左看右看</i><par n="爱__vblex"/></e>
 		<e lm="帮助"><i>帮助</i><par n="爱人__n"/></e>
 		<e lm="变化"><i>变化</i><par n="爱人__n"/></e>
 		<e lm="差"><i>差</i><par n="爱人__n"/></e>
